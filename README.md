@@ -8,7 +8,7 @@ Vue.js Study
 
 > - [x] Ch 01. Vue.js는 무엇인가?
 
-> - [ ] Ch 02. 개발환경 구성 (vs code, node, npm)
+> - [x] Ch 02. 개발환경 구성 (vs code, node, npm)
 
 > - [ ] Ch 03. Vue CLI로 Vue 프로젝트 생성하기
 
