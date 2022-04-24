@@ -10,7 +10,7 @@ Vue.js Study
 
 > - [x] Ch 02. 개발환경 구성 (vs code, node, npm)
 
-> - [ ] Ch 03. Vue CLI로 Vue 프로젝트 생성하기
+> - [x] Ch 03. Vue CLI로 Vue 프로젝트 생성하기
 
 > - [ ] Ch 04. Vue Router 설정
 
