@@ -6,7 +6,7 @@ Vue.js Study
 
 <summary><b>Vue.js 프로젝트 투입 일주일 전</b></summary>
 
-> - [ ] Ch 01. Vue.js는 무엇인가?
+> - [x] Ch 01. Vue.js는 무엇인가?
 
 > - [ ] Ch 02. 개발환경 구성 (vs code, node, npm)
 
