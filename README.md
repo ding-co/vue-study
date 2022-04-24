@@ -12,7 +12,7 @@ Vue.js Study
 
 > - [x] Ch 03. Vue CLI로 Vue 프로젝트 생성하기
 
-> - [ ] Ch 04. Vue Router 설정
+> - [x] Ch 04. Vue Router 설정
 
 > - [ ] Ch 05. 컴포넌트 Basic
 
