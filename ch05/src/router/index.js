@@ -21,6 +21,7 @@ import EventChange from '../views/EventChange';
 import ComputedView from '../views/ComputedView';
 import WatchView from '../views/WatchView';
 import WatchView2 from '../views/WatchView2';
+import DataBindingList2 from '../views/DataBindingList2.vue';
 
 const routes = [
   {
@@ -141,6 +142,11 @@ const routes = [
     path: '/watchview2',
     name: 'WatchView2',
     component: WatchView2,
+  },
+  {
+    path: '/databindinglist2',
+    name: 'DataBindingList2',
+    component: DataBindingList2,
   },
 ];
 

@@ -25,7 +25,8 @@
     <router-link to="/eventchange">EventChange</router-link> |
     <router-link to="/computedview">ComputedView</router-link> |
     <router-link to="/watchview">WatchView</router-link> |
-    <router-link to="/watchview2">WatchView2</router-link>
+    <router-link to="/watchview2">WatchView2</router-link> |
+    <router-link to="/databindinglist2">DataBindingList2</router-link>
   </nav>
   <router-view />
 </template>
