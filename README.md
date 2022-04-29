@@ -16,7 +16,7 @@ Vue.js Study
 
 > - [x] Ch 05. 컴포넌트 Basic
 
-> - [ ] Ch 06. Mock 서버 준비하기
+> - [x] Ch 06. Mock 서버 준비하기
 
 > - [ ] Ch 07. 서버 데이터 바인딩 실습
 
