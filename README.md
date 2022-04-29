@@ -14,7 +14,7 @@ Vue.js Study
 
 > - [x] Ch 04. Vue Router 설정
 
-> - [ ] Ch 05. 컴포넌트 Basic
+> - [x] Ch 05. 컴포넌트 Basic
 
 > - [ ] Ch 06. Mock 서버 준비하기
 

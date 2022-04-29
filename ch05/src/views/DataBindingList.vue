@@ -1,0 +1,87 @@
+<template>
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th>제품 이름</th>
+          <th>제품 가격</th>
+          <th>제품 카테고리</th>
+          <th>제품 배달비</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr :key="index" v-for="(product, index) in productList">
+          <td>{{ product.product_name }}</td>
+          <td>{{ product.price }}</td>
+          <td>{{ product.category }}</td>
+          <td>{{ product.delivery_price }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</template>
+
+<script>
+export default {
+  components: {},
+  data() {
+    return {
+      productList: [
+        {
+          product_name: '기계식 키보드',
+          price: 25000,
+          category: '노트북/태블릿',
+          delivery_price: 5000,
+        },
+        {
+          product_name: '무선 마우스',
+          price: 12000,
+          category: '노트북/태블릿',
+          delivery_price: 5000,
+        },
+        {
+          product_name: '아이패드',
+          price: 725000,
+          category: '노트북/태블릿',
+          delivery_price: 5000,
+        },
+        {
+          product_name: '태블릿 거치대',
+          price: 32000,
+          category: '노트북/태블릿',
+          delivery_price: 5000,
+        },
+        {
+          product_name: '무선충전기',
+          price: 42000,
+          category: '노트북/태블릿',
+          delivery_price: 5000,
+        },
+      ],
+    };
+  },
+  beforeCreate() {},
+  created() {},
+  beforeMount() {},
+  mounted() {},
+  beforeUpdate() {},
+  updated() {},
+  beforeUnmount() {},
+  unmounted() {},
+  methods: {},
+};
+</script>
+
+<style scoped>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
