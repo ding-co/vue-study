@@ -10,21 +10,21 @@ Vue.js Study
 
 > - [x] Ch 02. 개발환경 구성 (vs code, node, npm)
 
-> - [x] Ch 03. Vue CLI로 Vue 프로젝트 생성하기
+> - [x] [Ch 03. Vue CLI로 Vue 프로젝트 생성하기](https://github.com/ding-co/vue-study/tree/main/ch03)
 
-> - [x] Ch 04. Vue Router 설정
+> - [x] [Ch 04. Vue Router 설정](https://github.com/ding-co/vue-study/tree/main/ch04)
 
-> - [x] Ch 05. 컴포넌트 Basic
+> - [x] [Ch 05. 컴포넌트 Basic](https://github.com/ding-co/vue-study/tree/main/ch05)
 
 > - [x] Ch 06. Mock 서버 준비하기
 
 > - [x] Ch 07. 서버 데이터 바인딩 실습
 
-> - [x] Ch 08. 컴포넌트 심화 학습
+> - [x] [Ch 08. 컴포넌트 심화 학습](https://github.com/ding-co/vue-study/tree/main/ch08)
 
-> - [x] Ch 09. Reusability & Composition
+> - [x] [Ch 09. Reusability & Composition](https://github.com/ding-co/vue-study/tree/main/ch09)
 
-> - [x] Ch 10. Proxy 사용하기
+> - [x] [Ch 10. Proxy 사용하기](https://github.com/ding-co/vue-study/tree/main/ch10)
 
 > - [ ] Ch 11. Vuex (v4.x)
 
