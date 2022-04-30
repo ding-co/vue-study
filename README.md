@@ -20,7 +20,7 @@ Vue.js Study
 
 > - [x] Ch 07. 서버 데이터 바인딩 실습
 
-> - [ ] Ch 08. 컴포넌트 심화 학습
+> - [x] Ch 08. 컴포넌트 심화 학습
 
 > - [ ] Ch 09. Reusability & Composition
 
