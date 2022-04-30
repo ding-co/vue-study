@@ -22,7 +22,7 @@ Vue.js Study
 
 > - [x] Ch 08. 컴포넌트 심화 학습
 
-> - [ ] Ch 09. Reusability & Composition
+> - [x] Ch 09. Reusability & Composition
 
 > - [ ] Ch 10. Proxy 사용하기
 
