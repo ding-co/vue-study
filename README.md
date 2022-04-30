@@ -26,7 +26,7 @@ Vue.js Study
 
 > - [x] [Ch 10. Proxy 사용하기](https://github.com/ding-co/vue-study/tree/main/ch10)
 
-> - [ ] Ch 11. Vuex (v4.x)
+> - [x] [Ch 11. Vuex (v4.x)](https://github.com/ding-co/vue-study/tree/main/ch11)
 
 > - [ ] Ch 12. 프로젝트 배포하기
 
