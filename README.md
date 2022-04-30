@@ -28,7 +28,7 @@ Vue.js Study
 
 > - [x] [Ch 11. Vuex (v4.x)](https://github.com/ding-co/vue-study/tree/main/ch11)
 
-> - [ ] Ch 12. 프로젝트 배포하기
+> - [x] Ch 12. 프로젝트 배포하기
 
 > - [ ] Ch 13. 미니프로젝트: 로그인 처리
 
