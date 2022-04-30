@@ -24,7 +24,7 @@ Vue.js Study
 
 > - [x] Ch 09. Reusability & Composition
 
-> - [ ] Ch 10. Proxy 사용하기
+> - [x] Ch 10. Proxy 사용하기
 
 > - [ ] Ch 11. Vuex (v4.x)
 
