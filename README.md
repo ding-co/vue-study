@@ -32,6 +32,6 @@ Vue.js Study
 
 > - [x] [Ch 13. 미니프로젝트: 로그인 처리](https://github.com/ding-co/vue-study/tree/main/ch13)
 
-> - [ ] Ch 14. 미니프로젝트: 제품 판매 웹앱 구현
+> - [x] [Ch 14. 미니프로젝트: 제품 판매 웹앱 구현](https://github.com/ding-co/vue-study/tree/main/ch14)
 
 </details>
