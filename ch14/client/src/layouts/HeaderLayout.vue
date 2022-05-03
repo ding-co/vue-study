@@ -75,7 +75,7 @@ export default {
   created() {},
   beforeMount() {},
   mounted() {
-    console.log(this.$currencyFormat(50000, '#,###'))
+    // console.log(this.$currencyFormat(50000, '#,###'))
   },
   beforeUpdate() {},
   updated() {},
@@ -89,7 +89,7 @@ export default {
       })
     },
     getProfile(authObj) {
-      console.log(authObj)
+      // console.log(authObj)
       window.Kakao.API.request({
         url: '/v2/user/me',
         success: (res) => {
